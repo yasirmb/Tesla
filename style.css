@@ -1,0 +1,200 @@
+
+body{
+    margin: 0;
+    ;
+}
+.heading{
+    position: absolute;
+     z-index: 1;
+    display: flex;
+    flex-direction: row;
+    position: fixed;
+
+}
+.logo img{
+    width: 120px;
+    height: auto;
+    cursor: pointer;
+    padding-top: 10px;
+}
+.models{
+    padding-left: 160px;
+    cursor: pointer;
+}
+.model3{
+padding-left: 50px;
+cursor: pointer;
+}
+.modelx{
+padding-left: 50px;
+cursor: pointer;
+}
+.modely{
+padding-left: 50px;
+cursor: pointer;
+ }
+.solarroof{
+padding-left: 50px;
+cursor: pointer;
+ }
+ .solarpanels{
+padding-left: 50px;
+cursor: pointer;
+
+ }
+ .shop{
+padding-left: 180px;
+cursor: pointer;
+ }
+ .account{
+padding-left: 50px;
+cursor: pointer;
+ }
+ .menu{
+padding-left: 50px;
+cursor: pointer;
+ }
+ .image img{
+    width: 1350;
+    height: 100%;
+    margin-bottom: -55px;
+    margin-top: -55px;
+ }
+ .image{
+    position: relative;
+ }
+ 
+ 
+ .models{
+    padding-left: 160px;
+    cursor: pointer;
+}
+.model3{
+padding-left: 50px;
+}
+.modelx{
+padding-left: 50px;
+}
+.modely{
+padding-left: 50px;
+ }
+.solarroof{
+padding-left: 50px;
+ }
+ .solarpanels{
+padding-left: 50px;
+ }
+ .shop{
+padding-left: 180px;
+ }
+ .footer{
+    background-color: white;
+    position: absolute;
+     z-index: 1;
+   display: flex;
+    flex-direction: row;
+
+}
+.tesla©2022{
+    padding-left: 380px;
+    font-size: small;
+}
+.Privacylegal{
+padding-left: 10px;
+font-size: small;
+}
+.vehiclerecalls{
+    padding-left: 10px;
+    font-size: small;
+}
+.contact{
+    padding-left: 10px;
+    font-size: small;
+}
+.career{
+padding-left: 10px;
+font-size: small;
+}
+.news{
+    padding-left: 10px;
+    font-size: small;
+}
+.engage{
+    padding-left: 10px;
+    font-size: small;
+}
+.location{
+    padding-left: 10px;
+    font-size: small;
+}
+.a{
+position: relative
+}
+.container .btn{
+    position:absolute;
+    top: 50%;
+    left: 50%;
+}
+
+.b{
+font-size: larger;
+font-size: 35px;
+font-family:'Arial Narrow';
+position: absolute;
+margin-top: -650px;
+z-index: 9;
+padding-left: 600px;
+}
+
+.c{
+    font-size: smaller;
+font-size: 15px;
+font-family:'Arial Narrow';
+position: absolute;
+margin-top: -620px;
+z-index: 9;
+padding-left: 550px;
+}
+.s{
+    font-size: 15px;
+    font-family: 'Arial Narrow';
+    position: relative;
+    margin-top: -10px;
+    z-index: 9;
+    padding-left: -178px;
+    margin-left: -41px;
+}
+.d{
+    
+    font-size: 15px;
+
+    font-family:'Arial Narrow';
+    position: absolute;
+    margin-top: -620px;
+    z-index: 9;
+    padding-left: 550px;
+}
+.f{
+    font-size: 15px;
+
+    font-family:'Arial Narrow';
+    position: absolute;
+    margin-top: -620px;
+    z-index: 9;
+    margin-left: -83px;
+}
+.acessories{
+    position: relative;
+}
+.e{
+    
+    font-size: 56px;
+    font-family:'Arial Narrow';
+    position: absolute;
+    margin-top: -750px;
+    z-index: 9;
+    width: fit-content;
+    padding-left: 590px;
+    
+    
+}
